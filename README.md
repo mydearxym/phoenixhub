@@ -21,7 +21,7 @@ The app is running on a 512mb single core droplet on digitalocean.
 ### Getting Started
 
 Clone this repo then:
-
+0. check the .babelrc
 1. Install dependencies with `mix deps.get && npm i`
 2. Start rethinkDB `rethinkdb`
 3. Start Phoenix endpoint with `mix phoenix.server`
